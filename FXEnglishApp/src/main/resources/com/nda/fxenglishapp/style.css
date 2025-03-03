@@ -1,0 +1,10 @@
+GridPane {
+    -fx-backround-color:lightblue;
+}
+Text.Subject {
+    -fx-font-size:30;
+    -fx-font-weight: bold;
+    -fx-fill: red;
+    -fx-stroke-width: 4;
+    -fx-stroke-color: gold;
+}
